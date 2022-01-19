@@ -2,7 +2,7 @@
 
 
 * [Introdução](#Introdução)
-* [StyleGuide](#StyleGuide)
+* [Design](#Design)
 
 ## Introdução
 
